@@ -41,7 +41,7 @@ $(call inherit-product, device/samsung/i9300/i9300.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-1024-dalvik-heap.mk)
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := nameless_i9300
+PRODUCT_NAME := venture_i9300
 PRODUCT_DEVICE := i9300
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
